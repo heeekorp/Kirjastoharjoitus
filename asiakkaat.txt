@@ -1,0 +1,5 @@
+Matti Malli:Myllykuja 8 D:121288-123f:1001
+Maija Malli:Testikatu 8 A:120977-124s:1002
+Teuvo Testi:Joensuunkatu 7:100966-045f:1003
+Testi:katu xx:3344:1004
+Pertti X:Per„katu 3 D:122188-103f:1005
