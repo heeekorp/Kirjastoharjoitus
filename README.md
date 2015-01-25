@@ -1,0 +1,2 @@
+# kirjastoharjoitus
+Kirjastosovellus C++
